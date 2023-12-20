@@ -1,0 +1,73 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Chinese Name
+      value: Jian Xiang
+    - name: International Name
+      value: Weiss R. Xencolpastakerve
+    - name: Date of Birth
+      value: 2000
+    - name: Languages
+      value: Chinese, English, Japanese, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MRes in Speech, Language and Cognition with Distinction
+      institution: University College London, United Kingdom
+      year: 2023
+      description:
+        - title: Involved Components
+          contents:
+            - Computation. Statistics, Machine Learning, Speech Signal and Natural Language Processing
+            - Linguistics. Psycho- and Neuro-linguistics
+            - Psychology. Neuroscience, Neuroimaging (fMRI)
+        - title: Research Project with High Distinction
+          contents: Deep Learning-based Multi-lingual Speech Emotion Recognition
+    - title: BA in Japanese
+      institution: Zhongnan University of Economics and Law, China
+      year: 2022
+      description:
+        - Apart from the Japanese language, I taught myself advanced mathematics and computer science.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: NA
+      institution: NA
+      year: NA
+      description:
+        - NA
+        - NA
+        - title: NA
+          contents:
+            - NA
+            - NA
+
+- title: Honours and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - MRes Project Prize for Best Dissertation
+    - year: 2019
+      items: 
+        - China National Scholarship
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Artificial Intelligence
+      items: 
+        - Machine Learning Algorithms Optimisation
+        - Prompt Learning with Large Language Models
+        - AI for Health, Human Cognition, and Neuroscience
+    - title: Language Sciences
+      items:
+        - Cognitive Linguistics
+        - Computational Linguistics
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Video Games
